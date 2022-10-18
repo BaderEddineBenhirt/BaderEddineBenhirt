@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badereddinebenhirt&label=Profile%20views&color=0e75b6&style=flat" alt="badereddinebenhirt" /> </p>
 
-- 🌱 I’m currently learning **Angular,Spring Framework**
+- 🌱 I’m currently learning **Devops,AI**
 
-- 💬 Ask me about **android,Devops,AI**
+- 💬 Ask me about **Angular,Spring Framework,Android**
 
 - 📫 How to reach me **badereddinebenhirt@gmail.com**
 
