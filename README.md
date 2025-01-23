@@ -20,16 +20,16 @@
 ### Tech Stack 💻
 ```yaml
 DevOps & Cloud:
-  - Infrastructure: Terraform, Ansible, AWS, Azure
+  - Infrastructure: Terraform, Ansible, AWS
   - Containers: Docker, Kubernetes
-  - CI/CD: Jenkins, GitHub Actions
+  - CI/CD: Jenkins, GitHub Actions, GitLab Jobs
   - Monitoring: Prometheus, Grafana
 
 Development:
-  - Backend: Java, Spring Boot, Python, Django
-  - Frontend: Angular, React, TypeScript
+  - Backend: Java, Spring Boot, Python, Django, Php Symfony, Javascript Expressjs
+  - Frontend: Angular, React, Quasar, Svelt, Gatsby, NextJS
   - Databases: PostgreSQL, MongoDB, MySQL
-  - Tools: Git, Maven, Gradle
+  - Tools: Git, Maven, Gradle, GlasFish, WebSphere
 ```
 
 ### Let's Connect 🤝
