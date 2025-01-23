@@ -55,12 +55,26 @@ Development:
   <h4 style="margin-bottom: 20px;">DevOps & Cloud</h4>
   <p align="left" style="display: flex; gap: 35px; align-items: center; flex-wrap: wrap;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-official.svg" alt="cloudflare" width="50" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="50" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" alt="sentryio" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sonarqube.svg" alt="sonarqube" width="50" height="50" style="filter: invert(1);"/>
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="elasticco_kibana" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="elasticco_logstash" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheusio" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helmsh" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/gitpodio/gitpodio-icon.svg" alt="gitpodio" width="50" height="50"/>
+    
+
+
   </p>
 </div>
 
@@ -72,9 +86,17 @@ Development:
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsbyjs" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-icon.svg" alt="sveltetechnology" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="50" height="50"/>
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="50" height="50"/>
   </p>
 </div>
 
@@ -83,9 +105,23 @@ Development:
   <h4 style="margin-bottom: 20px;">Databases & Services</h4>
   <p align="left" style="display: flex; gap: 35px; align-items: center; flex-wrap: wrap;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefikio" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="apache_tomcat" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="apache_maven" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/javaee_glassfish/javaee_glassfish-icon.svg" alt="javaee_glassfish" width="50" height="50"/>    
+    <img src="https://www.vectorlogo.zone/logos/wildfly/wildfly-icon.svg" alt="wildfly" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" alt="twilio" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="stripe" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="50" height="50"/>
+    
+    
+    
   </p>
 </div>
 
