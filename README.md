@@ -26,7 +26,7 @@ DevOps & Cloud:
   - Monitoring: Prometheus, Grafana
 
 Development:
-  - Backend: Java, Spring Boot, Python, Django, Php Symfony, Javascript Expressjs
+  - Backend: Spring Boot, Django, Symfony, Expressjs
   - Frontend: Angular, React, Quasar, Svelt, Gatsby, NextJS
   - Databases: PostgreSQL, MongoDB, MySQL
   - Tools: Git, Maven, Gradle, GlasFish, WebSphere
