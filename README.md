@@ -11,11 +11,23 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlnZnpwZnB2MjZrNm9rNzFkdTBzb2ttYzV3eWJ6ZWw5anU3N3g5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### About Me 🚀
-- 🔭 DevOps Engineer at **Yanvision**
-- 🌱 Currently mastering **Cloud Architecture, MLOps**
-- 💡 Achieved **70% faster deployments** through CI/CD optimization
-- 🛡️ Enhanced system security by **85%**
-- 💾 Optimized VM resources saving **15GB per instance**
+
+DevOps Engineer and Full Stack Developer passionate about building scalable systems and automating complex workflows. With expertise spanning cloud infrastructure, application development, and system optimization, I focus on creating efficient, reliable solutions that bridge development and operations.
+
+```yaml
+Currently:
+  - Crafting cloud-native architectures
+  - Exploring MLOps and AI infrastructure
+  - Building scalable microservices
+  - Contributing to open-source projects
+
+Areas of Interest:
+  - Distributed Systems
+  - Infrastructure as Code
+  - Container Orchestration
+  - System Architecture
+  - Performance Optimization
+```
 
 ### Tech Stack 💻
 ```yaml
